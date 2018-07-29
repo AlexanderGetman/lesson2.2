@@ -41,5 +41,3 @@ if ($_POST == $correct)
 </form>
 </body>
 </html>
-
-<?php
